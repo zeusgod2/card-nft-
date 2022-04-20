@@ -1,0 +1,61 @@
+#caja{
+    background-color: rgb(62, 116, 157);
+    width: 200px;
+    height: 400px;
+}
+
+.text-1 {
+    margin-top: 50%;
+    margin-left: 28%;
+    margin-right: 35%;
+    font-size: 22px;
+    font-family: Geneva, 'MS Sans Serif', sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.text-2 {
+    margin-top: 0.2%;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-size: 18px;
+    text-align: center;
+    color: rgb(131, 133, 134);
+}
+
+.text-7 {
+    margin-top: -1%;
+    margin-left: 35%;
+    margin-right: 48%;
+    font-size: 18px;
+    text-align: center;
+    color: rgb(131, 133, 134);
+}
+
+.text-3 {
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 20%;
+    text-align: center;
+    color: rgb(62, 116, 157);
+}
+
+.text-6 {
+    margin-top: -3.4%;
+    margin-left: 16%;
+    margin-right: 1%;
+    text-align: center;
+    color: rgb(142, 142, 142);
+}
+
+.text-5 {
+    margin-top: 50%;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+    color: rgb(62, 116, 157);
+}
+
+body{
+    background-color: rgb(175, 69, 69)
+}
